@@ -1,0 +1,3 @@
+﻿  FastexProject.cpp
+C:\Users\MishaPC\Desktop\PROG\Project2\Project2\FastexProject.cpp(60,8): warning C4101: str: неиспользованная локальная переменная
+  Project2.vcxproj -> C:\Users\MishaPC\Desktop\PROG\Project2\Debug\Project2.exe
